@@ -1,0 +1,7 @@
+[data-fls-label] {
+  font-family: "Satoshi", sans-serif;
+  font-size: 0.8125rem;
+  line-height: 1.6;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
